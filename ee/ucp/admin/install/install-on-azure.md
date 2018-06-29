@@ -7,7 +7,7 @@ keywords: Universal Control Plane, UCP, install, Docker EE, Azure, Kubernetes
 Docker UCP configures the Azure IPAM module for Kubernetes to allocate
 IP addresses to Kubernetes pods. The Azure IPAM module requires each Azure
 VM that's part of the Kubernetes cluster to be configured with a pool of
-IP addresses.
+IP addresses
 
 You have two options for deploying the VMs for the Kubernetes cluster on Azure:
 - Install the cluster on Azure stand-alone virtual machines. Docker UCP provides
